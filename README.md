@@ -1,10 +1,8 @@
 # my_project
+This project is a Flutter project written in Dart language. I used Firebase Auth and Firebase Cloud in this project. I kept user-specific tasks and the durations of these tasks in Firebase. Actually, my project generally has tasks and each task has a different duration, I made daily, weekly and monthly charts according to these durations. On the add friends page, I created and displayed a list of friends by searching with people's emails.
 
-homework
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
